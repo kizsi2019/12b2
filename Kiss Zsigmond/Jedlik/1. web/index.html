@@ -188,12 +188,13 @@
                             <option value=""></option>
                             <option value="HUN">Hungaroring</option>
                             <option value="MON">Monaco</option>
+                            <option value="ITA">Monza</option>
                             <option value="BEL">Spa-Francorchamps</option>
                         </select>
                     </div>
                     <div class="form-group">
                         <label for="laptime">1 kör ideje (másodpercben)</label>
-                        <input type="text" class="form-control" id="laptime" placeholder="pl.: 105.954" oninput="calculate()">
+                        <input type="number" class="form-control" id="laptime" placeholder="pl.: 105.954" oninput="calculate()">
                     </div>
 
                     <div class="form-group">
@@ -203,6 +204,7 @@
                 </form>
 
                 <script>
+                    showCircuit();
                 </script>
 
             </div>
@@ -215,7 +217,9 @@
     </audio>
 
     <footer class="text-right p-2">
-        Források: http://formula.uw.hu/f1tortenet.html, https://en.wikipedia.org/wiki/List_of_Formula_One_driver_records
+        Források:
+        <a href="http://formula.uw.hu/f1tortenet.html">F1 története</a>,
+        <a href="https://en.wikipedia.org/wiki/List_of_Formula_One_driver_records">Wikipédia</a>
     </footer>
 
 
