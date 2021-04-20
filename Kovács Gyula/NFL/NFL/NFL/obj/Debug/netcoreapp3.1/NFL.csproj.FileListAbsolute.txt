@@ -1,0 +1,14 @@
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.exe
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\bin\Debug\netcoreapp3.1\NFL_iranyitok.txt
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.deps.json
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.json
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.dev.json
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.dll
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.csprojAssemblyReference.cache
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfoInputs.cache
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfo.cs
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.csproj.CoreCompileInputs.cache
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.dll
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\kgyus\OneDrive\Asztali gép\proggyakGITHUB\12b2\Kovács Gyula\NFL\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.genruntimeconfig.cache

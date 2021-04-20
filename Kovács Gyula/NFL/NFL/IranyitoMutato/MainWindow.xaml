@@ -1,0 +1,29 @@
+﻿<Window x:Class="IranyitoMutato.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IranyitoMutato"
+        mc:Ignorable="d"
+        Title="Irányító mutató kalkulátor" Height="284" Width="697">
+    <Grid Margin="0,0,21,6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Átadási kísérletek száma:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sikeres átadások száma:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top"/>
+        <Label Content="Passzolt yardok:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top"/>
+        <Label Content="Touchdown passzok:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Eladott átadások:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top"/>
+        <TextBox  x:Name="tbKísérlet" HorizontalAlignment="Left" Margin="184,14,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" TextAlignment="Center" Grid.Column="2" TextChanged="tbKísérlet_TextChanged"/>
+        <TextBox x:Name="tbSikeres" IsEnabled="False" Grid.Column="2" HorizontalAlignment="Left" Margin="184,44,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" TextAlignment="Center"/>
+        <TextBox x:Name="tbyardok" IsEnabled="False"  Grid.Column="2" HorizontalAlignment="Left" Margin="184,74,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" TextAlignment="Center"/>
+        <TextBox x:Name="tbTDK"  IsEnabled="False"  Grid.Column="2" HorizontalAlignment="Left" Margin="184,104,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" TextAlignment="Center"/>
+        <TextBox x:Name="tbEladott"  IsEnabled="False"  Grid.Column="2" HorizontalAlignment="Left" Margin="184,134,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" TextAlignment="Center"/>
+        <Label x:Name="lMutató" Content="Irányító mutató:" Grid.Column="2" HorizontalAlignment="Left" Margin="292,59,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="btnSzamol" Content="Számól" Grid.Column="2" HorizontalAlignment="Left" Margin="336,111,0,0" VerticalAlignment="Top" Width="74" Click="btnSzamol_Click"/>
+
+    </Grid>
+</Window>
