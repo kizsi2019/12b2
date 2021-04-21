@@ -1,0 +1,8 @@
+c:\users\veres\source\repos\NFL\NFL\obj\Debug\NFL.csprojAssemblyReference.cache
+c:\users\veres\source\repos\NFL\NFL\obj\Debug\NFL.csproj.CoreCompileInputs.cache
+c:\users\veres\source\repos\NFL\NFL\bin\Debug\NFL_iranyitok.txt
+c:\users\veres\source\repos\NFL\NFL\bin\Debug\NFL.exe.config
+c:\users\veres\source\repos\NFL\NFL\bin\Debug\NFL.exe
+c:\users\veres\source\repos\NFL\NFL\bin\Debug\NFL.pdb
+c:\users\veres\source\repos\NFL\NFL\obj\Debug\NFL.exe
+c:\users\veres\source\repos\NFL\NFL\obj\Debug\NFL.pdb
